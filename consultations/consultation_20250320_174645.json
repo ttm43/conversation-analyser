@@ -1,0 +1,42 @@
+{
+    "transcript": [
+        {
+            "speaker": "Doctor",
+            "text": "Hello? Hello? Hello? Hello, hello, hello, hello, hello, hello, hello."
+        }
+    ],
+    "qa_analysis": {
+        "cause": {
+            "work": "Not mentioned",
+            "sleep": "Not mentioned",
+            "sports_injuries": "Not mentioned",
+            "mva": "Not mentioned",
+            "summary": "The cause of the patient's condition is not mentioned in the provided recording."
+        },
+        "presentation": {
+            "main_complaint": "The patient's main complaint is not mentioned in the provided recording.",
+            "onset": "Not mentioned",
+            "is_chronic": "Not mentioned"
+        },
+        "life_effect": {
+            "activities_impact": "Not mentioned",
+            "nerve_root": "Not mentioned",
+            "clumsy": "Not mentioned",
+            "focus": "Not mentioned",
+            "immune": "Not mentioned",
+            "stress": "Not mentioned"
+        },
+        "intent": {
+            "previous_care": "Not mentioned",
+            "previous_exercises": "Not mentioned",
+            "lifestyle_changes": "Not mentioned",
+            "why_not_healed": "Not mentioned",
+            "goal": "The patient's treatment goals are not mentioned in the provided recording."
+        }
+    },
+    "summary": {
+        "presentation": "The patient's symptoms and conditions are not mentioned in the provided recording.",
+        "life_effect": "The impact on daily activities is not mentioned in the provided recording.",
+        "goal": "The patient's treatment objectives are not mentioned in the provided recording."
+    }
+}
